@@ -1,0 +1,8 @@
+Object adalah data yang berisi field/ properties/ attributes dan method / function /behavior
+semua data yang bukan primitive di Java adalah Object, mulai dari integer, Boolean, Character, String, dan yang lainnya
+
+
+Class adalah blueprint, prototype, atau cetakan untuk membuat Object
+Class berisikan deklarasi semua properties dan function yang dimiliki oleh object
+Setiap object selalu dibuat dari class
+dan sebuah class bisa membuat object tanpa batas
