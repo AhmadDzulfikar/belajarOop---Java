@@ -7,7 +7,7 @@ class Person {
     // Membuat constructor
     // Ada 3 constructor yang sama tetapi parameternya berbeda disebut constructor overloading
 Person (String name, String address) {
-    this.name = name;
+    this.name = name;   // this keyword (mengatasii variable shadowing)
     this.address = address;
 }
 
